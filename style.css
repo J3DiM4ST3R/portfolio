@@ -23,6 +23,50 @@ nav a {
     text-decoration: none;
 }
 
-section {
+.container {
+    max-width: 900px;
+    margin: 0 auto;
     padding: 40px 20px;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #1e1e1e;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+}
+
+section h3 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 15px;
+}
+
+ul {
+    margin: 0 0 20px 20px;
+    padding-left: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+#technical-background {
+    background-color: #fafafa;
+    padding: 30px 20px;
+    border-radius: 8px;
 }
