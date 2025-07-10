@@ -133,7 +133,7 @@ li {
 .fade-in {
     opacity: 0;
     transform: translateY(20px);
-    transition: all 0.6s ease-out, transform 0.6s ease-out;
+    transition: all 0.6s ease-out;
 }
 .fade-in.visible {
     opacity: 1;
