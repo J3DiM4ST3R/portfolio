@@ -1,0 +1,16 @@
+# Dependency folders
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+# Build outputs (if you use Vite or Webpack later)
+dist/
+build/
+
+# Sensitive config files (for full-stack apps later)
+.env
